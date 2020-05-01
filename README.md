@@ -17,4 +17,5 @@ Product: Represents the complex object under construction.
 If you want to read a cool article about Builder pattern go to this page:
 https://dotnettutorials.net/lesson/builder-design-pattern-real-time-example/
 
-References: https://en.wikipedia.org/wiki/Design_Patterns
+References: Design Patterns: Elements of Reusable Object-Oriented Software (1994) 
+https://en.wikipedia.org/wiki/Design_Patterns
