@@ -12,3 +12,9 @@ Builder: This is an interface containing steps for object creation and since thi
 Concrete Builder: This class will implement all abstract methods defined in the builder interface and it’s in charge of construction and assembly of any object composition. Also, it’s responsible for tracking the object it creates.  
 Director: Defines the necessary steps to build the product.
 Product: Represents the complex object under construction.
+
+
+If you want to read a cool article about Builder pattern go to this page:
+https://dotnettutorials.net/lesson/builder-design-pattern-real-time-example/
+
+References: https://en.wikipedia.org/wiki/Design_Patterns
